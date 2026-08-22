@@ -367,7 +367,9 @@ export const Main = styled.main`
     max-width: 180px;
     width: auto;
   }
-
+  .try-now-txt {
+    margin-top: 0;
+  }
   .display-badge-steps {
     margin: 0;
   }
